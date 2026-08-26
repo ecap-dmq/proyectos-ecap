@@ -96,7 +96,7 @@ El personal encargado de actualizar proyectos solo necesita modificar el CSV; la
 
 ## Actualizar la versión publicada en GitHub Pages
 
-El repositorio público es [Nachorock73/ecap-mapa-proyectos](https://github.com/Nachorock73/ecap-mapa-proyectos). La solución es completamente estática y usa rutas relativas, por lo que no requiere servidor de aplicaciones ni base SQL.
+El repositorio público es [https://github.com/ecap-dmq/proyectos-ecap](https://github.com/ecap-dmq/proyectos-ecap). La solución es completamente estática y usa rutas relativas, por lo que no requiere servidor de aplicaciones ni base SQL.
 
 Para publicar una actualización de la base:
 
@@ -104,6 +104,6 @@ Para publicar una actualización de la base:
 2. Reemplazar `base_datos_proyectos_investigacion.csv` en la raíz del repositorio, sin cambiar su nombre.
 3. Confirmar el cambio mediante un commit en GitHub o con Git.
 4. Esperar a que GitHub Pages termine el despliegue.
-5. Abrir <https://nachorock73.github.io/ecap-mapa-proyectos/> y verificar el número de proyectos, los filtros y varios puntos.
+5. Abrir <https://github.com/ecap-dmq/proyectos-ecap/> y verificar el número de proyectos, los filtros y varios puntos.
 
 La versión pública contiene información y coordenadas exactas; cualquier fila nueva debe contar con autorización institucional antes de incorporarse.
