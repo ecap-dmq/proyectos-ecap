@@ -29,8 +29,8 @@ El mapa necesita conexión a Internet para descargar Leaflet, Papa Parse y las t
 
 ## Actualizar la base con Excel
 
-1. Hacer una copia de respaldo de `base_datos_proyectos_investigacion.csv`.
-2. Abrir el CSV en Excel.
+1. Descargar el archvo `base_datos_proyectos_investigacion.xlsx`.
+2. Abrir el documento en Excel.
 3. No modificar los nombres ni el orden de los encabezados.
 4. Agregar, eliminar o actualizar registros.
 5. Guardar mediante **Archivo → Guardar como → CSV UTF-8 delimitado por comas (.csv)**.
